@@ -1,3 +1,3 @@
 # newone
-this is my first reepository
+this is my first repository
 owner-satish
